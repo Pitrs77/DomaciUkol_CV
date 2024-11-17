@@ -1,0 +1,32 @@
+:root {
+  --primary-color: #f10c0c;
+}
+.CV {
+  border-width: 3px;
+  border-style: solid;
+  border-color: red;
+  color: var(--primary-color);
+  font-size: 35px;
+  text-align: center;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+.profile {
+  width: 50%;
+  text-align: justify;
+  border: 1px dotted red;
+  padding: 10px;
+}
+.profile {
+  background-color: lightgrey;
+  display: inline-block;
+}
+.profile-photo {
+  border: 3px solid #252524cd;
+}
+.section-h2 {
+  color: var(--primary-color);
+}
+.p {
+  font-style: italic;
+}
